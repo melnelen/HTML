@@ -1,0 +1,29 @@
+a{
+	font-size: 22px;
+	color: deepskyblue;
+}
+
+table, thead{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+.infoTable{
+	border: none;
+	font-weight: 500;
+}
+
+#sidebarTable{
+	border: none;
+	line-height: 45px;
+	font-weight: 600;
+}
+
+td .laptopPrice{
+	padding-right: 20px;
+	text-align: right;
+}
+
+legend{
+	text-align: center;
+}
